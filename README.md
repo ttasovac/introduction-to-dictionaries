@@ -58,6 +58,8 @@ Was 17th century coffee more potent than the one we use today? Did it really rid
 
   <figure style="padding-top:1em; ""><img  src="http://i.imgur.com/NcnS4y1.png" width="100%"><figcaption style="color:gray;font-size:80%;text-align:right">The New Oxford American Dictionary</figcaption></figure>
 
+<br/>
+
 **Exercise.** Spend some time analyzing the above three entries. What would you say were the main stylistic features of lexicographic prose? How would you describe the tone of Blount's entry when compared to _The Chambers_ or the NOAD? What conclusions can you draw from the fact that modern entries for  _coffee_ contain more lexical information? And yet Blount's definition addresses something that other definitions don't: coffee as a stimulant. What do you make of that?
 
 Historical, legacy dictionaries remain valuable to humanists precisely because they provide culturally shaded insights into the lexical knowledge of a particular epoch — sometimes in contrast to contemporary experiences, attitudes or values. We study legacy dictionaries not because we need them for linguistic survival in a world of fauxhawks, twerking and jeggings, but because they have something important to teach us about language, about the people who wrote them and about the time in which they were written.
